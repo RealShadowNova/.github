@@ -1,0 +1,16 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "GitHub metadata files for my projects",
+  "author": "Hezekiah Hendry <hezekiah.hendry@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealShadowNova/.github.git"
+  },
+  "packageManager": "yarn@3.2.1"
+}
