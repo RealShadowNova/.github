@@ -29,6 +29,11 @@
         "automerge": true
       },
       {
+        "matchPackagePatterns": ["@joshdb"],
+        "groupName": "joshdb dependencies",
+        "followTag": "next"
+      },
+      {
         "matchDepTypes": ["engines"],
         "enabled": false
       }
