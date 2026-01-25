@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "prettier": "^3.8.0"
+    "prettier": "^3.8.1"
   },
   "repository": {
     "type": "git",
